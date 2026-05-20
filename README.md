@@ -157,9 +157,6 @@ The broader statistical analysis and several analytical sections were developed 
 - Add additional health outcome models
 - Expand longitudinal analysis
 
-## How to Run
+## The end
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
+Thaaaaanks! 
